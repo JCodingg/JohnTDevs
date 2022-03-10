@@ -1,8 +1,7 @@
-### Olá eu sou o João Víctor 
+### Hello, I'm João Victor
 
-- 🔭 Hoje meu foco é front-end
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
+- 💻 Software Developer
+- 📚 Computer Science Student
 
 <div align="center">
   <a href="https://github.com/JohnTDevs">
